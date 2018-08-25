@@ -1,4 +1,4 @@
-# About the Project
+# About
 
 In this project we are given a web-based application that reads RSS feeds by Udacity. The tests are added using Jasmine to check the functionalites of the code written.
 
