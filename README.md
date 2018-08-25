@@ -11,6 +11,10 @@ In this project we are given a web-based application that reads RSS feeds by Uda
 
 2. Open index.html in your browser.
 
+# Implementation Screenshots
+
+![Passing Specs Screenshot]('./images/frtest.PNG')
+
 # Technologies Used
 - Jasmine
 - jQuery
