@@ -6,7 +6,7 @@ In this project we are given a web-based application that reads RSS feeds by Uda
 
 1. Clone the repository using
 ``` bash
- git clone https://github.com/aayusharora/Feed-Reader-Testing.git
+ $ git clone https://github.com/strongSoda/feed-reader-testing.git
  ```
 
 2. Open index.html in your browser.
