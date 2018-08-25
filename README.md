@@ -1,6 +1,6 @@
 # About
 
-In this project we are given a web-based application that reads RSS feeds by Udacity, CSS Ticks, Html5 Rocks and Linear Digressions. The tests are written using Jasmine to check the features of the code written.
+In this project we are given a web-based application that reads RSS feeds by Udacity, CSS Tricks, Html5 Rocks and Linear Digressions. The tests are written using Jasmine to check the features of the code written.
 
 # How to run the Project
 
@@ -15,3 +15,9 @@ In this project we are given a web-based application that reads RSS feeds by Uda
 - Jasmine
 - jQuery
 - HTML5/CSS3
+
+# Learnings
+
+- Test Driven Development
+- Testing Code
+- Jasmine Framework
