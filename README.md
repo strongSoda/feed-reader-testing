@@ -13,7 +13,7 @@ In this project we are given a web-based application that reads RSS feeds by Uda
 
 # Implementation Screenshots
 
-![Passing Specs Screenshot]('./images/frtest.PNG')
+![Passing Specs Screenshot](./images/frtest.PNG)
 
 # Technologies Used
 - Jasmine
